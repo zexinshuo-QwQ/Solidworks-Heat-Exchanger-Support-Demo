@@ -7,7 +7,8 @@ This project demonstrates the mechanical design and structural analysis of a sup
 In chemical processing plants, heat exchangers are commonly installed in horizontal configurations and supported by saddle structures. Improper structural design may lead to excessive stress, deformation, or long-term fatigue failure. Therefore, structural verification is critical during the design stage.
 
 ## Design Requirements
-- Equipment type: Shell-and-tube heat exchanger  
+- Equipment type: Shell-and-tube heat exchanger
+- Length: 3 m
 - Total weight: 1200 kg (~11,772 N)  
 - Operating temperature: 180 °C  
 - Support configuration: Two saddle supports  
